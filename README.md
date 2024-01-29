@@ -1,5 +1,6 @@
 
-### 👨‍💻 // I'm Maickol Rivera 
+## 👨‍💻 // I'm Maickol Rivera 
+###
 I started creating my own web pages by learning HTML and CSS. To improve my design skills, I immersed myself in layout using Figma. Over time, the need for adding interactivity to my projects for that, leading me to explore the world of JavaScript. Later on, with the goal of developing a personal project and creating my own application, I decided to delve into Dart, enabling me to build applications with Flutter.
 
 Additionally, during my academic training, I get knowledge in C++, Java, and Python.
@@ -8,14 +9,14 @@ Additionally, during my academic training, I get knowledge in C++, Java, and Pyt
 ### ✨ A Web/Mobile Developer and UI/UX Designer
 
 - 📖 Currently exploring React, Node.js, and Flutter
-- 👯 Open to collaborating on diverse projects: <br>
+- 👯 Open to collaborating on diverse projects like: <br>
   Web and Mobile development, as well as Database work
 - 💬 Ask me about code
   
 ##
 
-### 💻 Tech Stacks:
-
+### 💻 Tech Stacks: <br>
+###
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
