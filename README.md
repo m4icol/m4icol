@@ -1,9 +1,9 @@
 
 ## 👨‍💻 // I'm Maickol Rivera 
 ###
-I started creating my own web pages by learning HTML and CSS. To improve my design skills, I immersed myself in layout using Figma. Over time, the need for adding interactivity to my projects for that, leading me to explore the world of JavaScript. Later on, with the goal of developing a personal project and creating my own application, I decided to delve into Dart, enabling me to build applications with Flutter.
+Hi! My name is Maickol Rivera and I began creating web pages for fun at the age of 15, never imagining it would become one of my greatest passions. Over time, I have expanded my skills, exploring JavaScript, Astro, and React.
 
-Additionally, during my academic training, I get knowledge in C++, Java, and Python.
+Additionally, I learned to develop applications with Flutter for a school project. In this setting, I also acquired skills in programming with C++ and Java.
 ##
 
 ### ✨ A Web/Mobile Developer and UI/UX Designer
