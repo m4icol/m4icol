@@ -1,14 +1,10 @@
 
 ![Banner](https://github.com/m4icol/m4icol/assets/93083280/ad3bcf0b-d386-4a79-a199-2150d178068d)
 
-## Web Developer and Designer ⭐
-
-###
+## ⭐ Web Developer and Designer <br>
 Hi! I started creating web pages for fun at the age of 15, never imagining it would become one of my greatest passions. <br>
-For more information, visit my [Portfolio](https://maickolrivera-portfolio.vercel.app/)
-###
 
-## Tech Stacks 💻
+### ✨ Tech Skills
 
 ###
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,8 +15,16 @@ For more information, visit my [Portfolio](https://maickolrivera-portfolio.verce
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+###
+
+##
+
+### 📖 For more information:
+-  🟩 Visit my [Portfolio.](https://maickolrivera-portfolio.vercel.app/)
+-  🟦 Connect with me on [LinkedIn.](https://www.linkedin.com/in/maickol-rivera/)
 
