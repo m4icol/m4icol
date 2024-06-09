@@ -2,9 +2,10 @@
 ![Banner](https://github.com/m4icol/m4icol/assets/93083280/ad3bcf0b-d386-4a79-a199-2150d178068d)
 
 ## ⭐ Web Developer and Designer <br>
-Hi! I started creating web pages for fun at the age of 15, never imagining it would become one of my greatest passions.
+I'm a web developer specializing in the front-end world and in creating 3D illustrations. <br>
+Additionally, some of my hobbies include video games and anime.
 
-### 📖 For more information:
+### 📖 More about me:
 -  🟩 Visit my [Portfolio.](https://maickolrivera-portfolio.vercel.app/)
 -  🟦 Connect with me on [LinkedIn.](https://www.linkedin.com/in/maickol-rivera/)
 <br>
