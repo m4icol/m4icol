@@ -3,10 +3,10 @@
 
 ## ⭐ Web Developer and Designer <br>
 I'm a web developer specializing in the front-end world and in creating 3D illustrations. <br>
-Additionally, some of my hobbies include video games and anime.
+Additionally, some of my hobbies include playing videogames and listening to music."
 
 ### 📖 More about me:
--  🟩 Visit my [Portfolio.](https://maickolrivera-portfolio.vercel.app/)
+-  🟩 See more of me, looking my [Portfolio.](https://maickolrivera-portfolio.vercel.app/)
 -  🟦 Connect with me on [LinkedIn.](https://www.linkedin.com/in/maickol-rivera/)
 <br>
 
