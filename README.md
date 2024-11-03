@@ -1,9 +1,9 @@
 
 ![Banner](https://github.com/m4icol/m4icol/assets/93083280/ad3bcf0b-d386-4a79-a199-2150d178068d)
 
-## ⭐ Web Developer and Designer <br>
-I'm a web developer specializing in the front-end world and in creating 3D illustrations. <br>
-Additionally, some of my hobbies include playing videogames and listening to music."
+## ⭐ Software Developer and UX/UI Designer <br>
+Focused on transforming problems and ideas into innovative solutions, and connecting users with unique experiences.<br>
+Additionally, some of my hobbies include playing videogames and listening to music :)
 
 ### 📖 More about me:
 -  🟩 See more of me, looking my [Portfolio.](https://maickolrivera-portfolio.vercel.app/)
