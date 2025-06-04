@@ -6,7 +6,7 @@ Focused on transforming problems and ideas into innovative solutions, and connec
 Additionally, some of my hobbies include playing videogames and listening to music :)
 
 ### 📖 More about me:
--  🟩 See more of me, looking my [Portfolio.](https://maickolrivera-portfolio.vercel.app/)
+-  🟩 See more of me, looking my [Portfolio.](https://maickolrivera.vercel.app/)
 -  🟦 Connect with me on [LinkedIn.](https://www.linkedin.com/in/maickol-rivera/)
 <br>
 
